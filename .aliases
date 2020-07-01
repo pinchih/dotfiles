@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+# Shortcuts
+alias px="Pod install && xed ."
